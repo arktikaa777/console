@@ -1,0 +1,16 @@
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.exe
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.deps.json
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.runtimeconfig.json
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\bin\Debug\net6.0\ref\Example001_Hello_Console.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\bin\Debug\net6.0\Example001_Hello_Console.pdb
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.GlobalUsings.g.cs
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.csproj.AssemblyReference.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.AssemblyInfoInputs.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.AssemblyInfo.cs
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\ref\Example001_Hello_Console.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.pdb
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example001_Hello_Console\obj\Debug\net6.0\Example001_Hello_Console.genruntimeconfig.cache
