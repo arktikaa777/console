@@ -1,0 +1,16 @@
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\bin\Debug\net6.0\Example005_conditions.exe
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\bin\Debug\net6.0\Example005_conditions.deps.json
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\bin\Debug\net6.0\Example005_conditions.runtimeconfig.json
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\bin\Debug\net6.0\Example005_conditions.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\bin\Debug\net6.0\ref\Example005_conditions.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\bin\Debug\net6.0\Example005_conditions.pdb
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.GlobalUsings.g.cs
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.csproj.AssemblyReference.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.AssemblyInfoInputs.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.AssemblyInfo.cs
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.csproj.CoreCompileInputs.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\ref\Example005_conditions.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.pdb
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\Examples\Example005_conditions\obj\Debug\net6.0\Example005_conditions.genruntimeconfig.cache
